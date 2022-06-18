@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **amarkrishna25@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MRfciR8XHCmR3-66WCchOXm4Ors76Ro1/view?usp=sharing](https://drive.google.com/file/d/1MRfciR8XHCmR3-66WCchOXm4Ors76Ro1/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1MRfciR8XHCmR3-66WCchOXm4Ors76Ro1/view?usp=sharing)
 
 - ⚡ Fun fact **I love Biriyani!**
 
