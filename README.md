@@ -1,15 +1,15 @@
 # 💫About Me :
-🔭 I’m currently working on Crowdfunding on ethereum blockchain
+- 🔭 I’m currently working on [Crowdfunding on ethereum blockchain](https://crowd-coin-phi.vercel.app/)
 
-🌱 I’m currently learning Building web3 apps
+- 🌱 I’m currently learning **Building web3 apps**
 
-👨‍💻 All of my projects are available at https://github.com/simpleitis
+- 👨‍💻 All of my projects are available at [https://github.com/simpleitis](https://github.com/simpleitis)
 
-📫 How to reach me amarkrishna25@gmail.com
+- 📫 How to reach me **amarkrishna25@gmail.com**
 
-📄 Know about my experiences here
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1MRfciR8XHCmR3-66WCchOXm4Ors76Ro1/view?usp=sharing)
 
-⚡ Fun fact I love Biriyani!
+- ⚡ Fun fact **I love Biriyani!**
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//amar-krishna) 
