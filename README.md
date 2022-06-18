@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Amar Krishna PA</h1>
 <h3 align="center">A tech enthusiast with a drive to learn and contribute</h3>
 
+- 🔭 I’m currently working on [Crowdfunding on ethereum blockchain](https://crowd-coin-phi.vercel.app/)
+
 - 🌱 I’m currently learning **Building web3 apps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/simpleitis](https://github.com/simpleitis)
@@ -8,6 +10,8 @@
 - 📫 How to reach me **amarkrishna25@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1MRfciR8XHCmR3-66WCchOXm4Ors76Ro1/view?usp=sharing](https://drive.google.com/file/d/1MRfciR8XHCmR3-66WCchOXm4Ors76Ro1/view?usp=sharing)
+
+- ⚡ Fun fact **I love Biriyani!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
