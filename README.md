@@ -1,7 +1,7 @@
 # 💫About Me :
 - 🔭 I’m currently working on [Crowdfunding on ethereum blockchain](https://crowd-coin-phi.vercel.app/)
 
-- 🌱 I’m currently learning **Building web3 apps**
+- 🌱 I’m currently learning to **build web3 apps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/simpleitis](https://github.com/simpleitis)
 
