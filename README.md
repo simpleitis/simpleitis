@@ -1,7 +1,7 @@
 # 💫About Me :
-- 🔭 I’m currently working on [Crowdfunding on ethereum blockchain](https://crowd-coin-phi.vercel.app/)
+- 🔭 I’m currently working with the MERN stack
 
-- 🌱 I’m currently learning to **build web3 apps**
+- 🌱 I’m currently learning **Next.js14**
 
 - 👨‍💻 All of my projects are available at [https://github.com/simpleitis](https://github.com/simpleitis)
 
